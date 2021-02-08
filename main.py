@@ -52,32 +52,33 @@ class App(QMainWindow):
         self.layout_gallery.setContentsMargins(0, 0, 0, 0)
         self.layout_gallery.setVerticalSpacing(6)
 
-        pictures = [os.path.join(upload_dir, picture)
-                    for picture in os.listdir('upload')]
-        row, column = 0, 0
-        for index, image in enumerate(pictures):
-            #TODO: remove it
-            if index == 15:
-                break
-            self.pic = QPushButton(self.gridLayoutWidget)
-            self.pic.setMaximumSize(QSize(99, 127))
-            self.pic.setLayoutDirection(Qt.LeftToRight)
-            self.pic.setAutoFillBackground(False)
-            self.pic.setStyleSheet("background: rgba(255, 255, 255, 0.01)")
-            self.pic.setText("")
-            icon = QIcon()
-            icon.addPixmap(QPixmap(image), QIcon.Normal, QIcon.Off)
-            self.pic.setIcon(icon)
-            self.pic.setIconSize(QSize(99, 127))
-            self.pic.setFlat(False)
-            self.pic.clicked.connect(self.gallery_page)
-            self.pic.setObjectName("pic_" + str(index))
-            self.layout_gallery.addWidget(self.pic, row, column, 1, 1)
+        if upload_dir:
+            pictures = [os.path.join(upload_dir, picture)
+                        for picture in os.listdir('upload')]
+            row, column = 0, 0
+            for index, image in enumerate(pictures):
+                #TODO: remove it
+                if index == 15:
+                    break
+                self.pic = QPushButton(self.gridLayoutWidget)
+                self.pic.setMaximumSize(QSize(99, 127))
+                self.pic.setLayoutDirection(Qt.LeftToRight)
+                self.pic.setAutoFillBackground(False)
+                self.pic.setStyleSheet("background: rgba(255, 255, 255, 0.01)")
+                self.pic.setText("")
+                icon = QIcon()
+                icon.addPixmap(QPixmap(image), QIcon.Normal, QIcon.Off)
+                self.pic.setIcon(icon)
+                self.pic.setIconSize(QSize(99, 127))
+                self.pic.setFlat(False)
+                self.pic.clicked.connect(self.gallery_page)
+                self.pic.setObjectName("pic_" + str(index))
+                self.layout_gallery.addWidget(self.pic, row, column, 1, 1)
 
-            column += 1
-            if column == 3:
-                row += 1
-                column = 0
+                column += 1
+                if column == 3:
+                    row += 1
+                    column = 0
 
 
 
