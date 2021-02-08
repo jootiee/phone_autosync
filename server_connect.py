@@ -40,7 +40,7 @@ class FTP:
         paths = current_dir_contains(self.ftp)
 
         [print(index, elem) for index, elem in enumerate(paths)]
-
+        
         selection = 1
 
         try:
@@ -53,7 +53,7 @@ class FTP:
                 print(
                     error_code[1], "file may not exist or you may not have permission to view it")
 
-    def connection_attempt(ip, username, password):
+    def connection_attempt(self, ip, username, password):
         try:
             ftp = ftplib.FTP(ip, timeout=10)
             ftp.login(user=username, passwd=password)

@@ -1,54 +1,23 @@
-import ftplib
+pic_1, pic_2, pic_3, pic_4, pic_5, pic_6 = 1, 2, 3, 4, 5, 6
+
+array = list()
+
+[array.append(pic_"i")]
 
 
-def ftp_connect():
-    while True:
-        site_address = input('Please enter FTP address: ')
-        try:
-            with ftplib.FTP(site_address) as ftp:
-                ftp.login()
-                print(ftp.getwelcome())
-                print('Current Directory', ftp.pwd())
-                ftp.dir()
-                print('Valid commands are cd/get/ls/exit - ex: get readme.txt')
-                ftp_command(ftp)
-                break  # once ftp_command() exits, end this function (exit program)
-        except ftplib.all_errors as e:
-            print('Failed to connect, check your address and credentials.', e)
+        pictures = [os.path.join(upload_dir, picture)
+                    for picture in os.listdir('upload')]
+                    
+        picture_frames = [self.layout_gallery.itemAtPosition(r, c) for r in range(
+            self.layout_gallery.rowCount()) for c in range(self.layout_gallery.columnCount())]
 
+        [self.layout_gallery.removeWidget(pic) for pic in picture_frames]
 
-def ftp_command(ftp):
-    while True:  # Run until 'exit' command is received from user
-        command = input('Enter a command: ')
-        commands = command.split()  # split command and file/directory into list
+        print(picture_frames)
 
-        if commands[0] == 'cd': # Change directory
-            try:
-                ftp.cwd(commands[1])
-                print('Directory of', ftp.pwd())
-                ftp.dir()
-                print('Current Directory', ftp.pwd())
-            except ftplib.error_perm as e:  # Handle 550 (not found / no permission error)
-                error_code = str(e).split(None, 1)
-                if error_code[0] == '550':
-                    print(error_code[1], 'Directory may not exist or you may not have permission to view it.')
-        elif commands[0] == 'get':  # Download file
-            try:
-                ftp.retrbinary('RETR ' + commands[1], open(commands[1], 'wb').write)
-                print('File successfully downloaded.')
-            except ftplib.error_perm as e:  # Handle 550 (not found / no permission error)
-                error_code = str(e).split(None, 1)
-                if error_code[0] == '550':
-                    print(error_code[1], 'File may not exist or you may not have permission to view it.')
-        elif commands[0] == 'ls':  # Print directory listing
-            print('Directory of', ftp.pwd())
-            ftp.dir()
-        elif commands[0] == 'exit':  # Exit application
-            ftp.quit()
-            print('Goodbye!')
-            break
-        else:
-            print('Invalid command, try again (valid options: cd/get/ls/exit).')
-
-print('Welcome to Python FTP')
-ftp_connect()
+        # self.pic_1.setIcon(QIcon(pictures[1]))
+        # print(type(self.pic_1), picture_frames[0])
+        # count = 0
+        # for picture in picture_frames:
+        #     picture.setIcon(QIcon(pictures[count]))
+        #     count += 1

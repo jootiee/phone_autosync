@@ -21,12 +21,26 @@ username = config['client']['username']
 password = config['client']['password']
 
 
-def rewrite(ip, username, password):
-    config.set('server', 'ip', ip)
-    config.set('client', 'username', username)
-    config.set('client', 'password', password)
-    with open('config.ini', 'w') as configfile:
-        config.write(configfile)
+run = False
+# while True:
+    # if run:
+        # gallery = [self.pic_0,
+                #    self.pic_1,
+                #    self.pic_2,
+                #    self.pic_3,
+                #    self.pic_4,
+                #    self.pic_5,
+                #    self.pic_6,
+                #    self.pic_7,
+                #    self.pic_8,
+                #    self.pic_9,
+                #    self.pic_10,
+                #    self.pic_11,
+                #    self.pic_12,
+                #    self.pic_13,
+                #    self.pic_14]
+        # break
+
 
 
 def current_dir_contains(FTP):
