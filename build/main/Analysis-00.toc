@@ -1,0 +1,1451 @@
+(['G:\\My Drive\\visual_studio\\github\\phone_autosync\\main.py'],
+ ['G:\\My Drive\\visual_studio\\github\\phone_autosync',
+  'G:\\My Drive\\visual_studio\\github\\phone_autosync'],
+ ['codecs'],
+ ['g:\\my '
+  'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\_pyinstaller_hooks_contrib\\hooks\\stdhooks',
+  'g:\\my '
+  'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\_pyinstaller_hooks_contrib\\hooks\\stdhooks\\__pycache__',
+  'g:\\my '
+  'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\_pyinstaller_hooks_contrib\\hooks\\rthooks',
+  'g:\\my '
+  'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\_pyinstaller_hooks_contrib\\hooks\\rthooks\\__pycache__',
+  'g:\\my '
+  'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\_pyinstaller_hooks_contrib\\hooks'],
+ [],
+ [],
+ False,
+ False,
+ False,
+ '3.7.3 (v3.7.3:ef4ec6ed12, Mar 25 2019, 22:22:05) [MSC v.1916 64 bit (AMD64)]',
+ [('pyi_rth_pyqt5',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pyqt5.py',
+   'PYSOURCE'),
+  ('pyi_rth_certifi',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\_pyinstaller_hooks_contrib\\hooks\\rthooks\\pyi_rth_certifi.py',
+   'PYSOURCE'),
+  ('main',
+   'G:\\My Drive\\visual_studio\\github\\phone_autosync\\main.py',
+   'PYSOURCE')],
+ [('ssl', 'd:\\soft\\python\\lib\\ssl.py', 'PYMODULE'),
+  ('calendar', 'd:\\soft\\python\\lib\\calendar.py', 'PYMODULE'),
+  ('argparse', 'd:\\soft\\python\\lib\\argparse.py', 'PYMODULE'),
+  ('textwrap', 'd:\\soft\\python\\lib\\textwrap.py', 'PYMODULE'),
+  ('copy', 'd:\\soft\\python\\lib\\copy.py', 'PYMODULE'),
+  ('gettext', 'd:\\soft\\python\\lib\\gettext.py', 'PYMODULE'),
+  ('struct', 'd:\\soft\\python\\lib\\struct.py', 'PYMODULE'),
+  ('datetime', 'd:\\soft\\python\\lib\\datetime.py', 'PYMODULE'),
+  ('_strptime', 'd:\\soft\\python\\lib\\_strptime.py', 'PYMODULE'),
+  ('base64', 'd:\\soft\\python\\lib\\base64.py', 'PYMODULE'),
+  ('getopt', 'd:\\soft\\python\\lib\\getopt.py', 'PYMODULE'),
+  ('socket', 'd:\\soft\\python\\lib\\socket.py', 'PYMODULE'),
+  ('selectors', 'd:\\soft\\python\\lib\\selectors.py', 'PYMODULE'),
+  ('os', 'd:\\soft\\python\\lib\\os.py', 'PYMODULE'),
+  ('subprocess', 'd:\\soft\\python\\lib\\subprocess.py', 'PYMODULE'),
+  ('threading', 'd:\\soft\\python\\lib\\threading.py', 'PYMODULE'),
+  ('_threading_local',
+   'd:\\soft\\python\\lib\\_threading_local.py',
+   'PYMODULE'),
+  ('contextlib', 'd:\\soft\\python\\lib\\contextlib.py', 'PYMODULE'),
+  ('signal', 'd:\\soft\\python\\lib\\signal.py', 'PYMODULE'),
+  ('ntpath', 'd:\\soft\\python\\lib\\ntpath.py', 'PYMODULE'),
+  ('string', 'd:\\soft\\python\\lib\\string.py', 'PYMODULE'),
+  ('genericpath', 'd:\\soft\\python\\lib\\genericpath.py', 'PYMODULE'),
+  ('posixpath', 'd:\\soft\\python\\lib\\posixpath.py', 'PYMODULE'),
+  ('stat', 'd:\\soft\\python\\lib\\stat.py', 'PYMODULE'),
+  ('typing', 'd:\\soft\\python\\lib\\typing.py', 'PYMODULE'),
+  ('_py_abc', 'd:\\soft\\python\\lib\\_py_abc.py', 'PYMODULE'),
+  ('tokenize', 'd:\\soft\\python\\lib\\tokenize.py', 'PYMODULE'),
+  ('token', 'd:\\soft\\python\\lib\\token.py', 'PYMODULE'),
+  ('quopri', 'd:\\soft\\python\\lib\\quopri.py', 'PYMODULE'),
+  ('bz2', 'd:\\soft\\python\\lib\\bz2.py', 'PYMODULE'),
+  ('_compression', 'd:\\soft\\python\\lib\\_compression.py', 'PYMODULE'),
+  ('stringprep', 'd:\\soft\\python\\lib\\stringprep.py', 'PYMODULE'),
+  ('tracemalloc', 'd:\\soft\\python\\lib\\tracemalloc.py', 'PYMODULE'),
+  ('pickle', 'd:\\soft\\python\\lib\\pickle.py', 'PYMODULE'),
+  ('pprint', 'd:\\soft\\python\\lib\\pprint.py', 'PYMODULE'),
+  ('doctest', 'd:\\soft\\python\\lib\\doctest.py', 'PYMODULE'),
+  ('unittest', 'd:\\soft\\python\\lib\\unittest\\__init__.py', 'PYMODULE'),
+  ('unittest.signals',
+   'd:\\soft\\python\\lib\\unittest\\signals.py',
+   'PYMODULE'),
+  ('unittest.main', 'd:\\soft\\python\\lib\\unittest\\main.py', 'PYMODULE'),
+  ('unittest.runner', 'd:\\soft\\python\\lib\\unittest\\runner.py', 'PYMODULE'),
+  ('unittest.loader', 'd:\\soft\\python\\lib\\unittest\\loader.py', 'PYMODULE'),
+  ('unittest.suite', 'd:\\soft\\python\\lib\\unittest\\suite.py', 'PYMODULE'),
+  ('unittest.case', 'd:\\soft\\python\\lib\\unittest\\case.py', 'PYMODULE'),
+  ('logging', 'd:\\soft\\python\\lib\\logging\\__init__.py', 'PYMODULE'),
+  ('unittest.result', 'd:\\soft\\python\\lib\\unittest\\result.py', 'PYMODULE'),
+  ('unittest.util', 'd:\\soft\\python\\lib\\unittest\\util.py', 'PYMODULE'),
+  ('pdb', 'd:\\soft\\python\\lib\\pdb.py', 'PYMODULE'),
+  ('pydoc', 'd:\\soft\\python\\lib\\pydoc.py', 'PYMODULE'),
+  ('webbrowser', 'd:\\soft\\python\\lib\\webbrowser.py', 'PYMODULE'),
+  ('shutil', 'd:\\soft\\python\\lib\\shutil.py', 'PYMODULE'),
+  ('zipfile', 'd:\\soft\\python\\lib\\zipfile.py', 'PYMODULE'),
+  ('py_compile', 'd:\\soft\\python\\lib\\py_compile.py', 'PYMODULE'),
+  ('tarfile', 'd:\\soft\\python\\lib\\tarfile.py', 'PYMODULE'),
+  ('gzip', 'd:\\soft\\python\\lib\\gzip.py', 'PYMODULE'),
+  ('lzma', 'd:\\soft\\python\\lib\\lzma.py', 'PYMODULE'),
+  ('email.message', 'd:\\soft\\python\\lib\\email\\message.py', 'PYMODULE'),
+  ('email.policy', 'd:\\soft\\python\\lib\\email\\policy.py', 'PYMODULE'),
+  ('email.contentmanager',
+   'd:\\soft\\python\\lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.quoprimime',
+   'd:\\soft\\python\\lib\\email\\quoprimime.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'd:\\soft\\python\\lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'd:\\soft\\python\\lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('urllib', 'd:\\soft\\python\\lib\\urllib\\__init__.py', 'PYMODULE'),
+  ('email.iterators', 'd:\\soft\\python\\lib\\email\\iterators.py', 'PYMODULE'),
+  ('email.generator', 'd:\\soft\\python\\lib\\email\\generator.py', 'PYMODULE'),
+  ('random', 'd:\\soft\\python\\lib\\random.py', 'PYMODULE'),
+  ('bisect', 'd:\\soft\\python\\lib\\bisect.py', 'PYMODULE'),
+  ('hashlib', 'd:\\soft\\python\\lib\\hashlib.py', 'PYMODULE'),
+  ('email._encoded_words',
+   'd:\\soft\\python\\lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('email.charset', 'd:\\soft\\python\\lib\\email\\charset.py', 'PYMODULE'),
+  ('email.encoders', 'd:\\soft\\python\\lib\\email\\encoders.py', 'PYMODULE'),
+  ('email.base64mime',
+   'd:\\soft\\python\\lib\\email\\base64mime.py',
+   'PYMODULE'),
+  ('email._policybase',
+   'd:\\soft\\python\\lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('email.header', 'd:\\soft\\python\\lib\\email\\header.py', 'PYMODULE'),
+  ('email.errors', 'd:\\soft\\python\\lib\\email\\errors.py', 'PYMODULE'),
+  ('email.utils', 'd:\\soft\\python\\lib\\email\\utils.py', 'PYMODULE'),
+  ('email._parseaddr',
+   'd:\\soft\\python\\lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('email', 'd:\\soft\\python\\lib\\email\\__init__.py', 'PYMODULE'),
+  ('email.parser', 'd:\\soft\\python\\lib\\email\\parser.py', 'PYMODULE'),
+  ('email.feedparser',
+   'd:\\soft\\python\\lib\\email\\feedparser.py',
+   'PYMODULE'),
+  ('uu', 'd:\\soft\\python\\lib\\uu.py', 'PYMODULE'),
+  ('optparse', 'd:\\soft\\python\\lib\\optparse.py', 'PYMODULE'),
+  ('http.server', 'd:\\soft\\python\\lib\\http\\server.py', 'PYMODULE'),
+  ('http', 'd:\\soft\\python\\lib\\http\\__init__.py', 'PYMODULE'),
+  ('socketserver', 'd:\\soft\\python\\lib\\socketserver.py', 'PYMODULE'),
+  ('mimetypes', 'd:\\soft\\python\\lib\\mimetypes.py', 'PYMODULE'),
+  ('http.client', 'd:\\soft\\python\\lib\\http\\client.py', 'PYMODULE'),
+  ('html', 'd:\\soft\\python\\lib\\html\\__init__.py', 'PYMODULE'),
+  ('html.entities', 'd:\\soft\\python\\lib\\html\\entities.py', 'PYMODULE'),
+  ('pydoc_data.topics',
+   'd:\\soft\\python\\lib\\pydoc_data\\topics.py',
+   'PYMODULE'),
+  ('pydoc_data', 'd:\\soft\\python\\lib\\pydoc_data\\__init__.py', 'PYMODULE'),
+  ('tty', 'd:\\soft\\python\\lib\\tty.py', 'PYMODULE'),
+  ('tempfile', 'd:\\soft\\python\\lib\\tempfile.py', 'PYMODULE'),
+  ('urllib.parse', 'd:\\soft\\python\\lib\\urllib\\parse.py', 'PYMODULE'),
+  ('platform', 'd:\\soft\\python\\lib\\platform.py', 'PYMODULE'),
+  ('plistlib', 'd:\\soft\\python\\lib\\plistlib.py', 'PYMODULE'),
+  ('xml.parsers.expat',
+   'd:\\soft\\python\\lib\\xml\\parsers\\expat.py',
+   'PYMODULE'),
+  ('xml.parsers',
+   'd:\\soft\\python\\lib\\xml\\parsers\\__init__.py',
+   'PYMODULE'),
+  ('xml', 'd:\\soft\\python\\lib\\xml\\__init__.py', 'PYMODULE'),
+  ('xml.sax.expatreader',
+   'd:\\soft\\python\\lib\\xml\\sax\\expatreader.py',
+   'PYMODULE'),
+  ('xml.sax.saxutils',
+   'd:\\soft\\python\\lib\\xml\\sax\\saxutils.py',
+   'PYMODULE'),
+  ('urllib.request', 'd:\\soft\\python\\lib\\urllib\\request.py', 'PYMODULE'),
+  ('getpass', 'd:\\soft\\python\\lib\\getpass.py', 'PYMODULE'),
+  ('nturl2path', 'd:\\soft\\python\\lib\\nturl2path.py', 'PYMODULE'),
+  ('ftplib', 'd:\\soft\\python\\lib\\ftplib.py', 'PYMODULE'),
+  ('netrc', 'd:\\soft\\python\\lib\\netrc.py', 'PYMODULE'),
+  ('http.cookiejar', 'd:\\soft\\python\\lib\\http\\cookiejar.py', 'PYMODULE'),
+  ('urllib.response', 'd:\\soft\\python\\lib\\urllib\\response.py', 'PYMODULE'),
+  ('urllib.error', 'd:\\soft\\python\\lib\\urllib\\error.py', 'PYMODULE'),
+  ('xml.sax', 'd:\\soft\\python\\lib\\xml\\sax\\__init__.py', 'PYMODULE'),
+  ('xml.sax.handler',
+   'd:\\soft\\python\\lib\\xml\\sax\\handler.py',
+   'PYMODULE'),
+  ('xml.sax._exceptions',
+   'd:\\soft\\python\\lib\\xml\\sax\\_exceptions.py',
+   'PYMODULE'),
+  ('xml.sax.xmlreader',
+   'd:\\soft\\python\\lib\\xml\\sax\\xmlreader.py',
+   'PYMODULE'),
+  ('pkgutil', 'd:\\soft\\python\\lib\\pkgutil.py', 'PYMODULE'),
+  ('importlib', 'd:\\soft\\python\\lib\\importlib\\__init__.py', 'PYMODULE'),
+  ('importlib.abc', 'd:\\soft\\python\\lib\\importlib\\abc.py', 'PYMODULE'),
+  ('importlib.util', 'd:\\soft\\python\\lib\\importlib\\util.py', 'PYMODULE'),
+  ('importlib.machinery',
+   'd:\\soft\\python\\lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'd:\\soft\\python\\lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'd:\\soft\\python\\lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('runpy', 'd:\\soft\\python\\lib\\runpy.py', 'PYMODULE'),
+  ('shlex', 'd:\\soft\\python\\lib\\shlex.py', 'PYMODULE'),
+  ('glob', 'd:\\soft\\python\\lib\\glob.py', 'PYMODULE'),
+  ('code', 'd:\\soft\\python\\lib\\code.py', 'PYMODULE'),
+  ('codeop', 'd:\\soft\\python\\lib\\codeop.py', 'PYMODULE'),
+  ('dis', 'd:\\soft\\python\\lib\\dis.py', 'PYMODULE'),
+  ('opcode', 'd:\\soft\\python\\lib\\opcode.py', 'PYMODULE'),
+  ('bdb', 'd:\\soft\\python\\lib\\bdb.py', 'PYMODULE'),
+  ('cmd', 'd:\\soft\\python\\lib\\cmd.py', 'PYMODULE'),
+  ('inspect', 'd:\\soft\\python\\lib\\inspect.py', 'PYMODULE'),
+  ('ast', 'd:\\soft\\python\\lib\\ast.py', 'PYMODULE'),
+  ('difflib', 'd:\\soft\\python\\lib\\difflib.py', 'PYMODULE'),
+  ('__future__', 'd:\\soft\\python\\lib\\__future__.py', 'PYMODULE'),
+  ('_compat_pickle', 'd:\\soft\\python\\lib\\_compat_pickle.py', 'PYMODULE'),
+  ('fnmatch', 'd:\\soft\\python\\lib\\fnmatch.py', 'PYMODULE'),
+  ('server_connect',
+   'G:\\My Drive\\visual_studio\\github\\phone_autosync\\server_connect.py',
+   'PYMODULE'),
+  ('config',
+   'G:\\My Drive\\visual_studio\\github\\phone_autosync\\config.py',
+   'PYMODULE'),
+  ('PyQt5.uic',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PyQt5\\uic\\__init__.py',
+   'PYMODULE'),
+  ('PyQt5.uic.objcreator',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PyQt5\\uic\\objcreator.py',
+   'PYMODULE'),
+  ('PyQt5.uic.exceptions',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PyQt5\\uic\\exceptions.py',
+   'PYMODULE'),
+  ('PyQt5.uic.Loader.loader',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PyQt5\\uic\\Loader\\loader.py',
+   'PYMODULE'),
+  ('PyQt5.uic.Loader',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PyQt5\\uic\\Loader\\__init__.py',
+   'PYMODULE'),
+  ('PyQt5.uic.Loader.qobjectcreator',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PyQt5\\uic\\Loader\\qobjectcreator.py',
+   'PYMODULE'),
+  ('PyQt5.uic.uiparser',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PyQt5\\uic\\uiparser.py',
+   'PYMODULE'),
+  ('PyQt5.uic.properties',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PyQt5\\uic\\properties.py',
+   'PYMODULE'),
+  ('PyQt5.uic.port_v3.ascii_upper',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PyQt5\\uic\\port_v3\\ascii_upper.py',
+   'PYMODULE'),
+  ('PyQt5.uic.port_v3',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PyQt5\\uic\\port_v3\\__init__.py',
+   'PYMODULE'),
+  ('PyQt5.uic.icon_cache',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PyQt5\\uic\\icon_cache.py',
+   'PYMODULE'),
+  ('xml.etree.ElementTree',
+   'd:\\soft\\python\\lib\\xml\\etree\\ElementTree.py',
+   'PYMODULE'),
+  ('xml.etree.cElementTree',
+   'd:\\soft\\python\\lib\\xml\\etree\\cElementTree.py',
+   'PYMODULE'),
+  ('xml.etree.ElementInclude',
+   'd:\\soft\\python\\lib\\xml\\etree\\ElementInclude.py',
+   'PYMODULE'),
+  ('xml.etree.ElementPath',
+   'd:\\soft\\python\\lib\\xml\\etree\\ElementPath.py',
+   'PYMODULE'),
+  ('xml.etree', 'd:\\soft\\python\\lib\\xml\\etree\\__init__.py', 'PYMODULE'),
+  ('PyQt5.uic.port_v2.string_io',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PyQt5\\uic\\port_v2\\string_io.py',
+   'PYMODULE'),
+  ('PyQt5.uic.port_v2',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PyQt5\\uic\\port_v2\\__init__.py',
+   'PYMODULE'),
+  ('PyQt5.uic.port_v3.string_io',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PyQt5\\uic\\port_v3\\string_io.py',
+   'PYMODULE'),
+  ('PyQt5.uic.Compiler.compiler',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PyQt5\\uic\\Compiler\\compiler.py',
+   'PYMODULE'),
+  ('PyQt5.uic.Compiler.qobjectcreator',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PyQt5\\uic\\Compiler\\qobjectcreator.py',
+   'PYMODULE'),
+  ('PyQt5.uic.port_v2.as_string',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PyQt5\\uic\\port_v2\\as_string.py',
+   'PYMODULE'),
+  ('PyQt5.uic.port_v3.as_string',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PyQt5\\uic\\port_v3\\as_string.py',
+   'PYMODULE'),
+  ('PyQt5.uic.Compiler.qtproxies',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PyQt5\\uic\\Compiler\\qtproxies.py',
+   'PYMODULE'),
+  ('PyQt5.uic.port_v2.proxy_base',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PyQt5\\uic\\port_v2\\proxy_base.py',
+   'PYMODULE'),
+  ('PyQt5.uic.Compiler.proxy_metaclass',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PyQt5\\uic\\Compiler\\proxy_metaclass.py',
+   'PYMODULE'),
+  ('PyQt5.uic.port_v3.proxy_base',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PyQt5\\uic\\port_v3\\proxy_base.py',
+   'PYMODULE'),
+  ('PyQt5.uic.Compiler.misc',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PyQt5\\uic\\Compiler\\misc.py',
+   'PYMODULE'),
+  ('PyQt5.uic.Compiler.indenter',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PyQt5\\uic\\Compiler\\indenter.py',
+   'PYMODULE'),
+  ('PyQt5.uic.Compiler',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PyQt5\\uic\\Compiler\\__init__.py',
+   'PYMODULE'),
+  ('PyQt5',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PyQt5\\__init__.py',
+   'PYMODULE'),
+  ('configparser', 'd:\\soft\\python\\lib\\configparser.py', 'PYMODULE'),
+  ('compression',
+   'G:\\My Drive\\visual_studio\\github\\phone_autosync\\compression.py',
+   'PYMODULE'),
+  ('PIL.Image',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PIL\\Image.py',
+   'PYMODULE'),
+  ('PIL.PalmImagePlugin',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PIL\\PalmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImageFile',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PIL\\ImageFile.py',
+   'PYMODULE'),
+  ('PIL.BlpImagePlugin',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PIL\\BlpImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.WebPImagePlugin',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PIL\\WebPImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.DdsImagePlugin',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PIL\\DdsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FitsStubImagePlugin',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PIL\\FitsStubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FliImagePlugin',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PIL\\FliImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IcoImagePlugin',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PIL\\IcoImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MpoImagePlugin',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PIL\\MpoImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.CurImagePlugin',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PIL\\CurImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.EpsImagePlugin',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PIL\\EpsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FtexImagePlugin',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PIL\\FtexImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.Jpeg2KImagePlugin',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PIL\\Jpeg2KImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.Hdf5StubImagePlugin',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PIL\\Hdf5StubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PcxImagePlugin',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PIL\\PcxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MpegImagePlugin',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PIL\\MpegImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MicImagePlugin',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PIL\\MicImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.DcxImagePlugin',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PIL\\DcxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.WmfImagePlugin',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PIL\\WmfImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PsdImagePlugin',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PIL\\PsdImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SpiderImagePlugin',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PIL\\SpiderImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImageTk',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PIL\\ImageTk.py',
+   'PYMODULE'),
+  ('PIL.FpxImagePlugin',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PIL\\FpxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XVThumbImagePlugin',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PIL\\XVThumbImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.GbrImagePlugin',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PIL\\GbrImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XbmImagePlugin',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PIL\\XbmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PcdImagePlugin',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PIL\\PcdImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MspImagePlugin',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PIL\\MspImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IcnsImagePlugin',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PIL\\IcnsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.features',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PIL\\features.py',
+   'PYMODULE'),
+  ('PIL.ImImagePlugin',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PIL\\ImImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImtImagePlugin',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PIL\\ImtImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PixarImagePlugin',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PIL\\PixarImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SunImagePlugin',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PIL\\SunImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XpmImagePlugin',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PIL\\XpmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.TgaImagePlugin',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PIL\\TgaImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.BufrStubImagePlugin',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PIL\\BufrStubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IptcImagePlugin',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PIL\\IptcImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SgiImagePlugin',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PIL\\SgiImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PdfImagePlugin',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PIL\\PdfImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PdfParser',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PIL\\PdfParser.py',
+   'PYMODULE'),
+  ('PIL.ImageSequence',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PIL\\ImageSequence.py',
+   'PYMODULE'),
+  ('PIL.GribStubImagePlugin',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PIL\\GribStubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.McIdasImagePlugin',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PIL\\McIdasImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.TiffImagePlugin',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PIL\\TiffImagePlugin.py',
+   'PYMODULE'),
+  ('fractions', 'd:\\soft\\python\\lib\\fractions.py', 'PYMODULE'),
+  ('decimal', 'd:\\soft\\python\\lib\\decimal.py', 'PYMODULE'),
+  ('_pydecimal', 'd:\\soft\\python\\lib\\_pydecimal.py', 'PYMODULE'),
+  ('contextvars', 'd:\\soft\\python\\lib\\contextvars.py', 'PYMODULE'),
+  ('PIL.ImageShow',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PIL\\ImageShow.py',
+   'PYMODULE'),
+  ('PIL.ImageQt',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PIL\\ImageQt.py',
+   'PYMODULE'),
+  ('PySide6',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PySide6\\__init__.py',
+   'PYMODULE'),
+  ('shiboken6',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\shiboken6\\__init__.py',
+   'PYMODULE'),
+  ('PIL.ImageColor',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PIL\\ImageColor.py',
+   'PYMODULE'),
+  ('colorsys', 'd:\\soft\\python\\lib\\colorsys.py', 'PYMODULE'),
+  ('PIL.ImageFilter',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PIL\\ImageFilter.py',
+   'PYMODULE'),
+  ('PIL.PyAccess',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PIL\\PyAccess.py',
+   'PYMODULE'),
+  ('PIL.ImagePalette',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PIL\\ImagePalette.py',
+   'PYMODULE'),
+  ('PIL.PaletteFile',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PIL\\PaletteFile.py',
+   'PYMODULE'),
+  ('PIL.GimpPaletteFile',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PIL\\GimpPaletteFile.py',
+   'PYMODULE'),
+  ('PIL.GimpGradientFile',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PIL\\GimpGradientFile.py',
+   'PYMODULE'),
+  ('PIL.PngImagePlugin',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PIL\\PngImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImageChops',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PIL\\ImageChops.py',
+   'PYMODULE'),
+  ('PIL.PpmImagePlugin',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PIL\\PpmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.JpegImagePlugin',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PIL\\JpegImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.JpegPresets',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PIL\\JpegPresets.py',
+   'PYMODULE'),
+  ('PIL.GifImagePlugin',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PIL\\GifImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.BmpImagePlugin',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PIL\\BmpImagePlugin.py',
+   'PYMODULE'),
+  ('PIL._util',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PIL\\_util.py',
+   'PYMODULE'),
+  ('PIL._binary',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PIL\\_binary.py',
+   'PYMODULE'),
+  ('PIL.TiffTags',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PIL\\TiffTags.py',
+   'PYMODULE'),
+  ('PIL.ImageMode',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PIL\\ImageMode.py',
+   'PYMODULE'),
+  ('pathlib', 'd:\\soft\\python\\lib\\pathlib.py', 'PYMODULE'),
+  ('numbers', 'd:\\soft\\python\\lib\\numbers.py', 'PYMODULE'),
+  ('PIL',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PIL\\__init__.py',
+   'PYMODULE'),
+  ('PIL._version',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PIL\\_version.py',
+   'PYMODULE'),
+  ('requests',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\requests\\__init__.py',
+   'PYMODULE'),
+  ('requests.status_codes',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\requests\\status_codes.py',
+   'PYMODULE'),
+  ('requests.structures',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\requests\\structures.py',
+   'PYMODULE'),
+  ('requests.compat',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\requests\\compat.py',
+   'PYMODULE'),
+  ('http.cookies', 'd:\\soft\\python\\lib\\http\\cookies.py', 'PYMODULE'),
+  ('json', 'd:\\soft\\python\\lib\\json\\__init__.py', 'PYMODULE'),
+  ('json.encoder', 'd:\\soft\\python\\lib\\json\\encoder.py', 'PYMODULE'),
+  ('json.decoder', 'd:\\soft\\python\\lib\\json\\decoder.py', 'PYMODULE'),
+  ('json.scanner', 'd:\\soft\\python\\lib\\json\\scanner.py', 'PYMODULE'),
+  ('requests.api',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\requests\\api.py',
+   'PYMODULE'),
+  ('requests.sessions',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\requests\\sessions.py',
+   'PYMODULE'),
+  ('requests.adapters',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\requests\\adapters.py',
+   'PYMODULE'),
+  ('urllib3.contrib.socks',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\urllib3\\contrib\\socks.py',
+   'PYMODULE'),
+  ('urllib3.util.url',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\urllib3\\util\\url.py',
+   'PYMODULE'),
+  ('idna',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\idna\\__init__.py',
+   'PYMODULE'),
+  ('idna.core',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\idna\\core.py',
+   'PYMODULE'),
+  ('idna.uts46data',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\idna\\uts46data.py',
+   'PYMODULE'),
+  ('idna.intranges',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\idna\\intranges.py',
+   'PYMODULE'),
+  ('idna.idnadata',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\idna\\idnadata.py',
+   'PYMODULE'),
+  ('idna.package_data',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\idna\\package_data.py',
+   'PYMODULE'),
+  ('urllib3.packages.six',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\urllib3\\packages\\six.py',
+   'PYMODULE'),
+  ('urllib3.packages',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\urllib3\\packages\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.packages.ssl_match_hostname',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\urllib3\\packages\\ssl_match_hostname\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.packages.ssl_match_hostname._implementation',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\urllib3\\packages\\ssl_match_hostname\\_implementation.py',
+   'PYMODULE'),
+  ('ipaddress', 'd:\\soft\\python\\lib\\ipaddress.py', 'PYMODULE'),
+  ('urllib3.connectionpool',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\urllib3\\connectionpool.py',
+   'PYMODULE'),
+  ('urllib3.util.timeout',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\urllib3\\util\\timeout.py',
+   'PYMODULE'),
+  ('urllib3.util.response',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\urllib3\\util\\response.py',
+   'PYMODULE'),
+  ('urllib3.util.request',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\urllib3\\util\\request.py',
+   'PYMODULE'),
+  ('urllib3.util.queue',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\urllib3\\util\\queue.py',
+   'PYMODULE'),
+  ('urllib3.util.proxy',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\urllib3\\util\\proxy.py',
+   'PYMODULE'),
+  ('urllib3.util.ssl_',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\urllib3\\util\\ssl_.py',
+   'PYMODULE'),
+  ('urllib3.util.ssltransport',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\urllib3\\util\\ssltransport.py',
+   'PYMODULE'),
+  ('hmac', 'd:\\soft\\python\\lib\\hmac.py', 'PYMODULE'),
+  ('urllib3.util.connection',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\urllib3\\util\\connection.py',
+   'PYMODULE'),
+  ('urllib3.util.wait',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\urllib3\\util\\wait.py',
+   'PYMODULE'),
+  ('urllib3.contrib._appengine_environ',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\urllib3\\contrib\\_appengine_environ.py',
+   'PYMODULE'),
+  ('urllib3.request',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\urllib3\\request.py',
+   'PYMODULE'),
+  ('urllib3.filepost',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\urllib3\\filepost.py',
+   'PYMODULE'),
+  ('urllib3.fields',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\urllib3\\fields.py',
+   'PYMODULE'),
+  ('queue', 'd:\\soft\\python\\lib\\queue.py', 'PYMODULE'),
+  ('urllib3.connection',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\urllib3\\connection.py',
+   'PYMODULE'),
+  ('urllib3._version',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\urllib3\\_version.py',
+   'PYMODULE'),
+  ('urllib3._collections',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\urllib3\\_collections.py',
+   'PYMODULE'),
+  ('urllib3.util.retry',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\urllib3\\util\\retry.py',
+   'PYMODULE'),
+  ('urllib3.util',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\urllib3\\util\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.response',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\urllib3\\response.py',
+   'PYMODULE'),
+  ('urllib3.poolmanager',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\urllib3\\poolmanager.py',
+   'PYMODULE'),
+  ('requests._internal_utils',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\requests\\_internal_utils.py',
+   'PYMODULE'),
+  ('requests.hooks',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\requests\\hooks.py',
+   'PYMODULE'),
+  ('requests.cookies',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\requests\\cookies.py',
+   'PYMODULE'),
+  ('dummy_threading', 'd:\\soft\\python\\lib\\dummy_threading.py', 'PYMODULE'),
+  ('_dummy_thread', 'd:\\soft\\python\\lib\\_dummy_thread.py', 'PYMODULE'),
+  ('requests.auth',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\requests\\auth.py',
+   'PYMODULE'),
+  ('requests.models',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\requests\\models.py',
+   'PYMODULE'),
+  ('requests.packages',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\requests\\packages.py',
+   'PYMODULE'),
+  ('requests.utils',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\requests\\utils.py',
+   'PYMODULE'),
+  ('requests.certs',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\requests\\certs.py',
+   'PYMODULE'),
+  ('certifi',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\certifi\\__init__.py',
+   'PYMODULE'),
+  ('certifi.core',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\certifi\\core.py',
+   'PYMODULE'),
+  ('importlib.resources',
+   'd:\\soft\\python\\lib\\importlib\\resources.py',
+   'PYMODULE'),
+  ('requests.__version__',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\requests\\__version__.py',
+   'PYMODULE'),
+  ('urllib3.exceptions',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\urllib3\\exceptions.py',
+   'PYMODULE'),
+  ('urllib3.contrib.pyopenssl',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\urllib3\\contrib\\pyopenssl.py',
+   'PYMODULE'),
+  ('urllib3.packages.backports.makefile',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\urllib3\\packages\\backports\\makefile.py',
+   'PYMODULE'),
+  ('urllib3.packages.backports',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\urllib3\\packages\\backports\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.contrib',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\urllib3\\contrib\\__init__.py',
+   'PYMODULE'),
+  ('requests.exceptions',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\requests\\exceptions.py',
+   'PYMODULE'),
+  ('chardet',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\chardet\\__init__.py',
+   'PYMODULE'),
+  ('chardet.version',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\chardet\\version.py',
+   'PYMODULE'),
+  ('chardet.enums',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\chardet\\enums.py',
+   'PYMODULE'),
+  ('chardet.universaldetector',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\chardet\\universaldetector.py',
+   'PYMODULE'),
+  ('chardet.sbcsgroupprober',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\chardet\\sbcsgroupprober.py',
+   'PYMODULE'),
+  ('chardet.sbcharsetprober',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\chardet\\sbcharsetprober.py',
+   'PYMODULE'),
+  ('chardet.charsetprober',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\chardet\\charsetprober.py',
+   'PYMODULE'),
+  ('chardet.langturkishmodel',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\chardet\\langturkishmodel.py',
+   'PYMODULE'),
+  ('chardet.langthaimodel',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\chardet\\langthaimodel.py',
+   'PYMODULE'),
+  ('chardet.langrussianmodel',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\chardet\\langrussianmodel.py',
+   'PYMODULE'),
+  ('chardet.langhebrewmodel',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\chardet\\langhebrewmodel.py',
+   'PYMODULE'),
+  ('chardet.langgreekmodel',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\chardet\\langgreekmodel.py',
+   'PYMODULE'),
+  ('chardet.langbulgarianmodel',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\chardet\\langbulgarianmodel.py',
+   'PYMODULE'),
+  ('chardet.hebrewprober',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\chardet\\hebrewprober.py',
+   'PYMODULE'),
+  ('chardet.mbcsgroupprober',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\chardet\\mbcsgroupprober.py',
+   'PYMODULE'),
+  ('chardet.euctwprober',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\chardet\\euctwprober.py',
+   'PYMODULE'),
+  ('chardet.mbcssm',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\chardet\\mbcssm.py',
+   'PYMODULE'),
+  ('chardet.chardistribution',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\chardet\\chardistribution.py',
+   'PYMODULE'),
+  ('chardet.jisfreq',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\chardet\\jisfreq.py',
+   'PYMODULE'),
+  ('chardet.big5freq',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\chardet\\big5freq.py',
+   'PYMODULE'),
+  ('chardet.gb2312freq',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\chardet\\gb2312freq.py',
+   'PYMODULE'),
+  ('chardet.euckrfreq',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\chardet\\euckrfreq.py',
+   'PYMODULE'),
+  ('chardet.euctwfreq',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\chardet\\euctwfreq.py',
+   'PYMODULE'),
+  ('chardet.codingstatemachine',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\chardet\\codingstatemachine.py',
+   'PYMODULE'),
+  ('chardet.mbcharsetprober',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\chardet\\mbcharsetprober.py',
+   'PYMODULE'),
+  ('chardet.big5prober',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\chardet\\big5prober.py',
+   'PYMODULE'),
+  ('chardet.cp949prober',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\chardet\\cp949prober.py',
+   'PYMODULE'),
+  ('chardet.euckrprober',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\chardet\\euckrprober.py',
+   'PYMODULE'),
+  ('chardet.gb2312prober',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\chardet\\gb2312prober.py',
+   'PYMODULE'),
+  ('chardet.eucjpprober',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\chardet\\eucjpprober.py',
+   'PYMODULE'),
+  ('chardet.jpcntx',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\chardet\\jpcntx.py',
+   'PYMODULE'),
+  ('chardet.sjisprober',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\chardet\\sjisprober.py',
+   'PYMODULE'),
+  ('chardet.utf8prober',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\chardet\\utf8prober.py',
+   'PYMODULE'),
+  ('chardet.latin1prober',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\chardet\\latin1prober.py',
+   'PYMODULE'),
+  ('chardet.escprober',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\chardet\\escprober.py',
+   'PYMODULE'),
+  ('chardet.escsm',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\chardet\\escsm.py',
+   'PYMODULE'),
+  ('chardet.charsetgroupprober',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\chardet\\charsetgroupprober.py',
+   'PYMODULE'),
+  ('urllib3',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\urllib3\\__init__.py',
+   'PYMODULE')],
+ [('PyQt5\\Qt\\plugins\\platforms\\qwebgl.dll',
+   'G:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PyQt5\\Qt\\plugins\\platforms\\qwebgl.dll',
+   'BINARY'),
+  ('d3dcompiler_47.dll',
+   'G:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PyQt5\\Qt\\bin\\d3dcompiler_47.dll',
+   'BINARY'),
+  ('PyQt5\\Qt\\plugins\\platformthemes\\qxdgdesktopportal.dll',
+   'G:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PyQt5\\Qt\\plugins\\platformthemes\\qxdgdesktopportal.dll',
+   'BINARY'),
+  ('PyQt5\\Qt\\plugins\\imageformats\\qwbmp.dll',
+   'G:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PyQt5\\Qt\\plugins\\imageformats\\qwbmp.dll',
+   'BINARY'),
+  ('PyQt5\\Qt\\plugins\\imageformats\\qicns.dll',
+   'G:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PyQt5\\Qt\\plugins\\imageformats\\qicns.dll',
+   'BINARY'),
+  ('PyQt5\\Qt\\plugins\\styles\\qwindowsvistastyle.dll',
+   'G:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PyQt5\\Qt\\plugins\\styles\\qwindowsvistastyle.dll',
+   'BINARY'),
+  ('PyQt5\\Qt\\plugins\\platforms\\qminimal.dll',
+   'G:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PyQt5\\Qt\\plugins\\platforms\\qminimal.dll',
+   'BINARY'),
+  ('PyQt5\\Qt\\plugins\\imageformats\\qjpeg.dll',
+   'G:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PyQt5\\Qt\\plugins\\imageformats\\qjpeg.dll',
+   'BINARY'),
+  ('PyQt5\\Qt\\plugins\\iconengines\\qsvgicon.dll',
+   'G:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PyQt5\\Qt\\plugins\\iconengines\\qsvgicon.dll',
+   'BINARY'),
+  ('PyQt5\\Qt\\plugins\\imageformats\\qico.dll',
+   'G:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PyQt5\\Qt\\plugins\\imageformats\\qico.dll',
+   'BINARY'),
+  ('opengl32sw.dll',
+   'G:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PyQt5\\Qt\\bin\\opengl32sw.dll',
+   'BINARY'),
+  ('PyQt5\\Qt\\plugins\\imageformats\\qtiff.dll',
+   'G:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PyQt5\\Qt\\plugins\\imageformats\\qtiff.dll',
+   'BINARY'),
+  ('PyQt5\\Qt\\plugins\\imageformats\\qwebp.dll',
+   'G:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PyQt5\\Qt\\plugins\\imageformats\\qwebp.dll',
+   'BINARY'),
+  ('PyQt5\\Qt\\plugins\\platforms\\qwindows.dll',
+   'G:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PyQt5\\Qt\\plugins\\platforms\\qwindows.dll',
+   'BINARY'),
+  ('PyQt5\\Qt\\plugins\\imageformats\\qtga.dll',
+   'G:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PyQt5\\Qt\\plugins\\imageformats\\qtga.dll',
+   'BINARY'),
+  ('PyQt5\\Qt\\plugins\\imageformats\\qsvg.dll',
+   'G:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PyQt5\\Qt\\plugins\\imageformats\\qsvg.dll',
+   'BINARY'),
+  ('libGLESv2.dll',
+   'G:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PyQt5\\Qt\\bin\\libGLESv2.dll',
+   'BINARY'),
+  ('PyQt5\\Qt\\plugins\\imageformats\\qgif.dll',
+   'G:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PyQt5\\Qt\\plugins\\imageformats\\qgif.dll',
+   'BINARY'),
+  ('libEGL.dll',
+   'G:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PyQt5\\Qt\\bin\\libEGL.dll',
+   'BINARY'),
+  ('PyQt5\\Qt\\plugins\\platforms\\qoffscreen.dll',
+   'G:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PyQt5\\Qt\\plugins\\platforms\\qoffscreen.dll',
+   'BINARY'),
+  ('select', 'd:\\soft\\python\\DLLs\\select.pyd', 'EXTENSION'),
+  ('_socket', 'd:\\soft\\python\\DLLs\\_socket.pyd', 'EXTENSION'),
+  ('_ssl', 'd:\\soft\\python\\DLLs\\_ssl.pyd', 'EXTENSION'),
+  ('_bz2', 'd:\\soft\\python\\DLLs\\_bz2.pyd', 'EXTENSION'),
+  ('unicodedata', 'd:\\soft\\python\\DLLs\\unicodedata.pyd', 'EXTENSION'),
+  ('_lzma', 'd:\\soft\\python\\DLLs\\_lzma.pyd', 'EXTENSION'),
+  ('_hashlib', 'd:\\soft\\python\\DLLs\\_hashlib.pyd', 'EXTENSION'),
+  ('pyexpat', 'd:\\soft\\python\\DLLs\\pyexpat.pyd', 'EXTENSION'),
+  ('PyQt5.QtCore',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PyQt5\\QtCore.pyd',
+   'EXTENSION'),
+  ('PyQt5.QtGui',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PyQt5\\QtGui.pyd',
+   'EXTENSION'),
+  ('PyQt5.QtWidgets',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PyQt5\\QtWidgets.pyd',
+   'EXTENSION'),
+  ('_elementtree', 'd:\\soft\\python\\DLLs\\_elementtree.pyd', 'EXTENSION'),
+  ('PyQt5.sip',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PyQt5\\sip.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('PIL._webp',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PIL\\_webp.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('PIL._imagingtk',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PIL\\_imagingtk.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('_decimal', 'd:\\soft\\python\\DLLs\\_decimal.pyd', 'EXTENSION'),
+  ('PySide6.QtGui',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PySide6\\QtGui.pyd',
+   'EXTENSION'),
+  ('PySide6.QtNetwork',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PySide6\\QtNetwork.pyd',
+   'EXTENSION'),
+  ('shiboken6.shiboken6',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\shiboken6\\shiboken6.pyd',
+   'EXTENSION'),
+  ('PySide6.QtCore',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PySide6\\QtCore.pyd',
+   'EXTENSION'),
+  ('PIL._imaging',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PIL\\_imaging.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('_queue', 'd:\\soft\\python\\DLLs\\_queue.pyd', 'EXTENSION'),
+  ('Qt5Gui.dll',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PyQt5\\Qt\\bin\\Qt5Gui.dll',
+   'BINARY'),
+  ('api-ms-win-crt-convert-l1-1-0.dll',
+   'C:\\WINDOWS\\system32\\api-ms-win-crt-convert-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-string-l1-1-0.dll',
+   'C:\\WINDOWS\\system32\\api-ms-win-crt-string-l1-1-0.dll',
+   'BINARY'),
+  ('Qt5Core.dll',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PyQt5\\Qt\\bin\\Qt5Core.dll',
+   'BINARY'),
+  ('api-ms-win-crt-math-l1-1-0.dll',
+   'C:\\WINDOWS\\system32\\api-ms-win-crt-math-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-heap-l1-1-0.dll',
+   'C:\\WINDOWS\\system32\\api-ms-win-crt-heap-l1-1-0.dll',
+   'BINARY'),
+  ('VCRUNTIME140.dll', 'd:\\soft\\python\\VCRUNTIME140.dll', 'BINARY'),
+  ('Qt5Network.dll',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PyQt5\\Qt\\bin\\Qt5Network.dll',
+   'BINARY'),
+  ('Qt5WebSockets.dll',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PyQt5\\Qt\\bin\\Qt5WebSockets.dll',
+   'BINARY'),
+  ('api-ms-win-crt-runtime-l1-1-0.dll',
+   'C:\\WINDOWS\\system32\\api-ms-win-crt-runtime-l1-1-0.dll',
+   'BINARY'),
+  ('Qt5Quick.dll',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PyQt5\\Qt\\bin\\Qt5Quick.dll',
+   'BINARY'),
+  ('Qt5DBus.dll',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PyQt5\\Qt\\bin\\Qt5DBus.dll',
+   'BINARY'),
+  ('Qt5Widgets.dll',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PyQt5\\Qt\\bin\\Qt5Widgets.dll',
+   'BINARY'),
+  ('api-ms-win-crt-environment-l1-1-0.dll',
+   'C:\\WINDOWS\\system32\\api-ms-win-crt-environment-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-stdio-l1-1-0.dll',
+   'C:\\WINDOWS\\system32\\api-ms-win-crt-stdio-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-utility-l1-1-0.dll',
+   'C:\\WINDOWS\\system32\\api-ms-win-crt-utility-l1-1-0.dll',
+   'BINARY'),
+  ('Qt5Svg.dll',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PyQt5\\Qt\\bin\\Qt5Svg.dll',
+   'BINARY'),
+  ('VCRUNTIME140_1.dll',
+   'G:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PyQt5\\Qt\\bin\\VCRUNTIME140_1.dll',
+   'BINARY'),
+  ('MSVCP140.dll',
+   'G:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PyQt5\\Qt\\bin\\MSVCP140.dll',
+   'BINARY'),
+  ('python37.dll', 'd:\\soft\\python\\python37.dll', 'BINARY'),
+  ('libcrypto-1_1-x64.dll',
+   'd:\\soft\\python\\DLLs\\libcrypto-1_1-x64.dll',
+   'BINARY'),
+  ('libssl-1_1-x64.dll',
+   'd:\\soft\\python\\DLLs\\libssl-1_1-x64.dll',
+   'BINARY'),
+  ('python3.dll', 'd:\\soft\\python\\python3.dll', 'BINARY'),
+  ('api-ms-win-crt-locale-l1-1-0.dll',
+   'C:\\WINDOWS\\system32\\api-ms-win-crt-locale-l1-1-0.dll',
+   'BINARY'),
+  ('Qt6Gui.dll',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PySide6\\Qt6Gui.dll',
+   'BINARY'),
+  ('pyside6.abi3.dll',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PySide6\\pyside6.abi3.dll',
+   'BINARY'),
+  ('Qt6Core.dll',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PySide6\\Qt6Core.dll',
+   'BINARY'),
+  ('Qt6Network.dll',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PySide6\\Qt6Network.dll',
+   'BINARY'),
+  ('shiboken6.abi3.dll',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\shiboken6\\shiboken6.abi3.dll',
+   'BINARY'),
+  ('api-ms-win-crt-filesystem-l1-1-0.dll',
+   'C:\\WINDOWS\\system32\\api-ms-win-crt-filesystem-l1-1-0.dll',
+   'BINARY'),
+  ('ucrtbase.dll', 'C:\\WINDOWS\\system32\\ucrtbase.dll', 'BINARY'),
+  ('MSVCP140_1.dll',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PyQt5\\Qt\\bin\\MSVCP140_1.dll',
+   'BINARY'),
+  ('api-ms-win-crt-time-l1-1-0.dll',
+   'C:\\WINDOWS\\system32\\api-ms-win-crt-time-l1-1-0.dll',
+   'BINARY'),
+  ('Qt5Qml.dll',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PyQt5\\Qt\\bin\\Qt5Qml.dll',
+   'BINARY'),
+  ('Qt5QmlModels.dll',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PyQt5\\Qt\\bin\\Qt5QmlModels.dll',
+   'BINARY'),
+  ('api-ms-win-crt-process-l1-1-0.dll',
+   'C:\\WINDOWS\\system32\\api-ms-win-crt-process-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-conio-l1-1-0.dll',
+   'C:\\WINDOWS\\system32\\api-ms-win-crt-conio-l1-1-0.dll',
+   'BINARY'),
+  ('Qt6Qml.dll',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PySide6\\Qt6Qml.dll',
+   'BINARY')],
+ [],
+ [],
+ [('base_library.zip',
+   'G:\\My '
+   'Drive\\visual_studio\\github\\phone_autosync\\build\\main\\base_library.zip',
+   'DATA'),
+  ('certifi\\__pycache__\\desktop.ini',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\certifi\\__pycache__\\desktop.ini',
+   'DATA'),
+  ('PyQt5\\Qt\\translations\\qtbase_it.qm',
+   'G:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_it.qm',
+   'DATA'),
+  ('PyQt5\\Qt\\translations\\qtbase_lv.qm',
+   'G:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_lv.qm',
+   'DATA'),
+  ('PyQt5\\Qt\\translations\\qtbase_de.qm',
+   'G:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_de.qm',
+   'DATA'),
+  ('PyQt5\\Qt\\translations\\qtbase_bg.qm',
+   'G:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_bg.qm',
+   'DATA'),
+  ('PyQt5\\Qt\\translations\\qtbase_sk.qm',
+   'G:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_sk.qm',
+   'DATA'),
+  ('PyQt5\\Qt\\translations\\qtbase_zh_TW.qm',
+   'G:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_zh_TW.qm',
+   'DATA'),
+  ('PyQt5\\uic\\widget-plugins\\__pycache__\\qaxcontainer.cpython-37.pyc',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PyQt5\\uic\\widget-plugins\\__pycache__\\qaxcontainer.cpython-37.pyc',
+   'DATA'),
+  ('PyQt5\\Qt\\translations\\qtbase_he.qm',
+   'G:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_he.qm',
+   'DATA'),
+  ('PyQt5\\Qt\\translations\\qtbase_tr.qm',
+   'G:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_tr.qm',
+   'DATA'),
+  ('PyQt5\\uic\\widget-plugins\\__pycache__\\qtprintsupport.cpython-37.pyc',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PyQt5\\uic\\widget-plugins\\__pycache__\\qtprintsupport.cpython-37.pyc',
+   'DATA'),
+  ('PyQt5\\uic\\widget-plugins\\qtquickwidgets.py',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PyQt5\\uic\\widget-plugins\\qtquickwidgets.py',
+   'DATA'),
+  ('PyQt5\\Qt\\translations\\qtbase_pl.qm',
+   'G:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_pl.qm',
+   'DATA'),
+  ('PyQt5\\uic\\widget-plugins\\__pycache__\\qscintilla.cpython-37.pyc',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PyQt5\\uic\\widget-plugins\\__pycache__\\qscintilla.cpython-37.pyc',
+   'DATA'),
+  ('PyQt5\\uic\\widget-plugins\\qaxcontainer.py',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PyQt5\\uic\\widget-plugins\\qaxcontainer.py',
+   'DATA'),
+  ('PyQt5\\uic\\widget-plugins\\qtwebenginewidgets.py',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PyQt5\\uic\\widget-plugins\\qtwebenginewidgets.py',
+   'DATA'),
+  ('PyQt5\\Qt\\translations\\qtbase_ru.qm',
+   'G:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_ru.qm',
+   'DATA'),
+  ('PyQt5\\uic\\widget-plugins\\desktop.ini',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PyQt5\\uic\\widget-plugins\\desktop.ini',
+   'DATA'),
+  ('PyQt5\\uic\\widget-plugins\\__pycache__\\qtcharts.cpython-37.pyc',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PyQt5\\uic\\widget-plugins\\__pycache__\\qtcharts.cpython-37.pyc',
+   'DATA'),
+  ('PyQt5\\uic\\widget-plugins\\qtwebkit.py',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PyQt5\\uic\\widget-plugins\\qtwebkit.py',
+   'DATA'),
+  ('certifi\\desktop.ini',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\certifi\\desktop.ini',
+   'DATA'),
+  ('PyQt5\\uic\\widget-plugins\\qtcharts.py',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PyQt5\\uic\\widget-plugins\\qtcharts.py',
+   'DATA'),
+  ('PyQt5\\Qt\\translations\\qtbase_ar.qm',
+   'G:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_ar.qm',
+   'DATA'),
+  ('PyQt5\\Qt\\translations\\qtbase_es.qm',
+   'G:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_es.qm',
+   'DATA'),
+  ('PyQt5\\Qt\\translations\\qtbase_fi.qm',
+   'G:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_fi.qm',
+   'DATA'),
+  ('PyQt5\\uic\\widget-plugins\\__pycache__\\desktop.ini',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PyQt5\\uic\\widget-plugins\\__pycache__\\desktop.ini',
+   'DATA'),
+  ('PyQt5\\Qt\\translations\\qtbase_hu.qm',
+   'G:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_hu.qm',
+   'DATA'),
+  ('PyQt5\\Qt\\translations\\qtbase_cs.qm',
+   'G:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_cs.qm',
+   'DATA'),
+  ('PyQt5\\Qt\\translations\\qtbase_gd.qm',
+   'G:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_gd.qm',
+   'DATA'),
+  ('PyQt5\\uic\\widget-plugins\\qtprintsupport.py',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PyQt5\\uic\\widget-plugins\\qtprintsupport.py',
+   'DATA'),
+  ('PyQt5\\Qt\\translations\\qtbase_ja.qm',
+   'G:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_ja.qm',
+   'DATA'),
+  ('certifi\\cacert.pem',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\certifi\\cacert.pem',
+   'DATA'),
+  ('PyQt5\\uic\\widget-plugins\\__pycache__\\qtwebkit.cpython-37.pyc',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PyQt5\\uic\\widget-plugins\\__pycache__\\qtwebkit.cpython-37.pyc',
+   'DATA'),
+  ('PyQt5\\uic\\widget-plugins\\qscintilla.py',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PyQt5\\uic\\widget-plugins\\qscintilla.py',
+   'DATA'),
+  ('PyQt5\\uic\\widget-plugins\\__pycache__\\qtquickwidgets.cpython-37.pyc',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PyQt5\\uic\\widget-plugins\\__pycache__\\qtquickwidgets.cpython-37.pyc',
+   'DATA'),
+  ('PyQt5\\Qt\\translations\\qtbase_da.qm',
+   'G:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_da.qm',
+   'DATA'),
+  ('PyQt5\\Qt\\translations\\qtbase_uk.qm',
+   'G:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_uk.qm',
+   'DATA'),
+  ('PyQt5\\Qt\\translations\\qtbase_fr.qm',
+   'G:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_fr.qm',
+   'DATA'),
+  ('PyQt5\\Qt\\translations\\qtbase_ca.qm',
+   'G:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_ca.qm',
+   'DATA'),
+  ('PyQt5\\uic\\widget-plugins\\__pycache__\\qtwebenginewidgets.cpython-37.pyc',
+   'g:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PyQt5\\uic\\widget-plugins\\__pycache__\\qtwebenginewidgets.cpython-37.pyc',
+   'DATA'),
+  ('PyQt5\\Qt\\translations\\qtbase_ko.qm',
+   'G:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_ko.qm',
+   'DATA'),
+  ('PyQt5\\Qt\\translations\\qtbase_en.qm',
+   'G:\\my '
+   'drive\\visual_studio\\github\\phone_autosync\\autosync\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_en.qm',
+   'DATA')],
+ [])

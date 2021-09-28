@@ -4,6 +4,10 @@ import ftplib
 import requests
 from compression import *
 from configparser import ConfigParser
+from PyQt5 import uic
+from PyQt5.QtWidgets import QApplication, QMainWindow, QWidget, QLayout, QGridLayout, QPushButton
+from PyQt5.QtGui import QIcon, QPixmap
+from PyQt5.QtCore import QRect, Qt, QSize
 
 current_dir = os.path.dirname(__file__)
 
@@ -12,40 +16,27 @@ interface = os.path.join(current_dir, "ui/interface.ui")
 config = ConfigParser()
 config.read('config.ini')
 
-upload_dir = os.path.join(current_dir, 'upload')
-download_dir = os.path.join(current_dir, 'download')
+
+try:
+    gallery_dir = os.path.join(current_dir, 'gallery')
+except:
+    os.mkdir('gallery')
+    gallery_dir = os.path.join(current_dir, 'gallery')
+
+
 server_dir = config['server']['folder']
 
 ip = config['server']['ip']
 username = config['client']['username']
 password = config['client']['password']
+if int(config['client']['firstrun']):
+    first_run = True
+else:
+    first_run = False
 
-
-run = False
-# while True:
-    # if run:
-        # gallery = [self.pic_0,
-                #    self.pic_1,
-                #    self.pic_2,
-                #    self.pic_3,
-                #    self.pic_4,
-                #    self.pic_5,
-                #    self.pic_6,
-                #    self.pic_7,
-                #    self.pic_8,
-                #    self.pic_9,
-                #    self.pic_10,
-                #    self.pic_11,
-                #    self.pic_12,
-                #    self.pic_13,
-                #    self.pic_14]
-        # break
-
-
-
-def current_dir_contains(FTP):
+def get_paths(FTP):
     paths = list()
     for path in FTP.nlst():
         path = path[::-1][:path[::-1].index("/")][::-1]
         paths.append(path)
-    return(paths)
+    return paths
